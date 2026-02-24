@@ -1,8 +1,20 @@
 # Blood-Donation-Management-system
-* This is a simple blood donation management system.
-* When there is need of blood, we have to select blood group that we need, it will show the list of blood donors(persons who have registered on website to donate blood) with their details.
-* A person has to register on website if he wants to donate blood.
-* install and setup
+This is a simple blood donation management system.
+When there is need of blood, we have to select blood group that we need, it will show the list of blood donors(persons who have registered on website to donate blood) with their details.
+A person has to register on website if he wants to donate blood.
+*Key Features
+User Authentication: Secure login and registration for Donors, Recipients, and Admins.
+Donor Management: Register donors, update profiles, and track donation history.
+Real-time Search: Search for donors based on blood group and location.
+Admin Dashboard: Manage donor records, blood stock levels, and user queries.
+Blood Stock Tracking: Automated updates of available units in the blood bank.
+Urgent Requests: Ability to post and view emergency blood requirements.
+*Tech Stack
+Frontend: HTML5, CSS3, JavaScript (Bootstrap for styling)
+Backend: PHP
+Database: MySQL
+Server: XAMPP / Apache
+*install and setup
 Follow these steps to run the project locally:
 
 Clone the repository
